@@ -6,3 +6,4 @@
 
 ### [<div dir="rtl"> مراجع php</div>](./php)
 ### [<div dir="rtl"> مراجع python</div>](./python)
+### [<div dir="rtl"> قنوات علي اليوتيوب</div>](./youtube-channels)
