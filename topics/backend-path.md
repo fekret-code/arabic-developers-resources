@@ -15,7 +15,7 @@
 ## <div dir="rtl">3. 🟥 اوامر unix و التعامل مع الـ terminal</div>
 
 ## <div dir="rtl">4. 🟦 لغة من لغات الـ server side اختر واحدة</div>
-### <div dir="rtl">🟩 - php</div>
+### [<div dir="rtl">🟩 - php</div>](./../php)
 ### <div dir="rtl">🟩 - js</div>
 ### <div dir="rtl">🟩 - python</div>
 ### <div dir="rtl">🟩 - java</div>
