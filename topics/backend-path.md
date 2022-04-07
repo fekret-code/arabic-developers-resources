@@ -33,12 +33,12 @@
 ## <div dir="rtl">6. 🟦 قواعد البيانات (SQL | NoSql) اختر المناسب للعمل</div>
 ### *<div dir="rtl">SQL</div>*
 ### <div dir="rtl">🟩 - MySql</div>
-### <div dir="rtl">🟩 - PostgreSql</div>
-### <div dir="rtl">🟩 - MariaDB</div> 
-### <div dir="rtl">🟩 - MS Sql</div> 
-### <div dir="rtl">🟩 - Oracle</div>
+### <div dir="rtl">🟨 - PostgreSql</div>
+### <div dir="rtl">🟨 - MariaDB</div> 
+### <div dir="rtl">🟨 - MS Sql</div> 
+### <div dir="rtl">🟨 - Oracle</div>
 ### *<div dir="rtl">NoSQL</div>*
-### <div dir="rtl">🟩 - MongoDB</div>
+### <div dir="rtl">🟨 - MongoDB</div>
 ### <div dir="rtl">🟨 - Cassandra</div>
 ### <div dir="rtl">🟨 - InfluxDB</div>
 ### <div dir="rtl">🟨 - Firebase</div>
